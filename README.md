@@ -5,11 +5,11 @@
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/DevRico003/youtube_summarizer
+git clone https://github.com/adesh-thakare/Youtube-Summary-OpenAI-GPT-GenerativeAI.git
 ```
 2. Change into the cloned repository:
 ```bash
-cd youtube_summarizer
+cd Youtube-Summary-OpenAI-GPT-GenerativeAI
 ```
 3. Install all necessary packages:
 ```bash
